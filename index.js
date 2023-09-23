@@ -1,4 +1,3 @@
-let test;
 let cells = document.querySelectorAll('.cell');
 let currentPlayer = 'X';
 let xPlayer = [];
